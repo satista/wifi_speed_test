@@ -1,1 +1,1 @@
-# wifi_speed_test
+This a development project for wifi Speed test applications which can export your data into a CSV file. It can run over a long period of time and test your internet speed. 
